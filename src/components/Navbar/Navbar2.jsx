@@ -11,9 +11,9 @@ const Navbar2 = () => {
                     <Link to="">
                         <img className="h-12 w-10" src="https://i.ibb.co/QM0knDP/Mask-Group.jpg" alt="" />
                     </Link>
-                    <ul className="hidden xl:flex px-4 ml-20 2xl:ml-40 mr-auto">
-                        <li className="mr-16"><a className="font-medium hover:text-darkBlueGray-400" href="#">Stories</a></li>
-                        <li className="relative mr-16">
+                    <ul className="hidden xl:flex gap-6 px-4 ml-20 2xl:ml-40 mr-auto">
+                        <li className=""><a className="font-medium hover:text-darkBlueGray-400" href="#">Stories</a></li>
+                        <li className="relative ">
                             <NavLink className="flex items-center font-medium hover:text-darkBlueGray-400" href="#">
                                 <span className="mr-4">Products</span>
                                 <svg width="8" height="5" viewBox="0 0 8 5" fill="none" xmlns="http://www.w3.org/2000/svg">

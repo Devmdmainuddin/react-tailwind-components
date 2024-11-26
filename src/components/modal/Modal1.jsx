@@ -19,7 +19,7 @@ const Modal1 = () => {
     return (
         <div>
             <div className="flex justify-center items-center">
-                <button onClick={() => setMenu(true)} className="hover:bg-black top-20 absolute z-0 w-40 py-4 bg-gray-800 text-white rounded focus:ring-2 focus:ring-offset-2 focus:ring-gray-800 cursor-pointer">
+                <button onClick={() => setMenu(true)} className="hover:bg-black  z-0 w-40 py-4 bg-gray-800 text-white rounded focus:ring-2 focus:ring-offset-2 focus:ring-gray-800 cursor-pointer">
                     Show Modal
                 </button>
                 <div id="menu" className={"md:px-6 px-4 py-12 w-full h-full flex justify-center  bg-gray-800 " + (menu ? "block" : "hidden")}>
