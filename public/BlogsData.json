@@ -1,0 +1,113 @@
+[
+    {
+      "title": "The Rise of JavaScript Frameworks",
+      "body": "JavaScript frameworks like React, Angular, and Vue have revolutionized frontend development...",
+      "tags": ["JavaScript", "Frontend", "Web Development"],
+      "image": "https://images.unsplash.com/photo-1597534458220-9fb4969f2df5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+      "category": "Technology",
+      "author": "John Doe",
+      "authorImage": "https://example.com/authors/john-doe.jpg",
+      "userEmail": "johndoe@example.com",
+      "publishDate": "2024-12-01"
+    },
+    {
+      "title": "Exploring the MERN Stack",
+      "body": "MERN stands for MongoDB, Express.js, React, and Node.js, a popular stack for full-stack web development...",
+      "tags": ["MERN", "Full Stack", "Web Development"],
+      "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "category": "Programming",
+      "author": "Jane Smith",
+      "authorImage": "https://example.com/authors/jane-smith.jpg",
+      "userEmail": "janesmith@example.com",
+      "publishDate": "2024-12-02"
+    },
+    {
+      "title": "Tips for Responsive Web Design",
+      "body": "Responsive web design ensures your website looks great on all devices. Here are some tips to achieve it...",
+      "tags": ["Web Design", "Responsive", "CSS"],
+      "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "category": "Design",
+      "author": "Alice Johnson",
+      "authorImage": "https://example.com/authors/alice-johnson.jpg",
+      "userEmail": "alicejohnson@example.com",
+      "publishDate": "2024-11-30"
+    },
+    {
+      "title": "Understanding Redux Toolkit",
+      "body": "Redux Toolkit simplifies state management in React applications. Learn how to use it effectively...",
+      "tags": ["Redux", "React", "State Management"],
+      "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "category": "Programming",
+      "author": "Bob Martin",
+      "authorImage": "https://example.com/authors/bob-martin.jpg",
+      "userEmail": "bobmartin@example.com",
+      "publishDate": "2024-12-03"
+    },
+    {
+      "title": "Getting Started with Firebase",
+      "body": "Firebase is a powerful platform for building mobile and web applications. Here's how to get started...",
+      "tags": ["Firebase", "Backend", "App Development"],
+      "image": "https://example.com/images/firebase.jpg",
+      "category": "Technology",
+      "author": "Chris Lee",
+      "authorImage": "https://example.com/authors/chris-lee.jpg",
+      "userEmail": "chrislee@example.com",
+      "publishDate": "2024-11-29"
+    },
+    {
+      "title": "Optimizing Images for the Web",
+      "body": "Fast-loading images improve user experience and SEO. Learn techniques to optimize images for the web...",
+      "tags": ["Images", "SEO", "Optimization"],
+      "image": "https://example.com/images/image-optimization.jpg",
+      "category": "SEO",
+      "author": "Emma Brown",
+      "authorImage": "https://example.com/authors/emma-brown.jpg",
+      "userEmail": "emmabrown@example.com",
+      "publishDate": "2024-12-04"
+    },
+    {
+      "title": "The Benefits of Tailwind CSS",
+      "body": "Tailwind CSS provides utility-first styling, enabling developers to build custom designs quickly...",
+      "tags": ["CSS", "Tailwind", "Frontend"],
+      "image": "https://example.com/images/tailwind-css.jpg",
+      "category": "Design",
+      "author": "Sarah Clark",
+      "authorImage": "https://example.com/authors/sarah-clark.jpg",
+      "userEmail": "sarahclark@example.com",
+      "publishDate": "2024-11-28"
+    },
+    {
+      "title": "Node.js for Beginners",
+      "body": "Node.js allows developers to build scalable server-side applications using JavaScript...",
+      "tags": ["Node.js", "Backend", "JavaScript"],
+      "image": "https://example.com/images/nodejs.jpg",
+      "category": "Programming",
+      "author": "David Wilson",
+      "authorImage": "https://example.com/authors/david-wilson.jpg",
+      "userEmail": "davidwilson@example.com",
+      "publishDate": "2024-11-27"
+    },
+    {
+      "title": "The Future of AI in Web Development",
+      "body": "AI is transforming web development by introducing smarter tools and personalized user experiences...",
+      "tags": ["AI", "Web Development", "Technology"],
+      "image": "https://example.com/images/ai-web-dev.jpg",
+      "category": "Technology",
+      "author": "Sophia Adams",
+      "authorImage": "https://example.com/authors/sophia-adams.jpg",
+      "userEmail": "sophiaadams@example.com",
+      "publishDate": "2024-12-01"
+    },
+    {
+      "title": "Building a Chat Application with React",
+      "body": "Learn how to build a real-time chat application using React and Firebase...",
+      "tags": ["React", "Chat App", "Firebase"],
+      "image": "https://example.com/images/react-chat-app.jpg",
+      "category": "Programming",
+      "author": "Liam Walker",
+      "authorImage": "https://example.com/authors/liam-walker.jpg",
+      "userEmail": "liamwalker@example.com",
+      "publishDate": "2024-11-26"
+    }
+  ]
+  

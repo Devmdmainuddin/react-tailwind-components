@@ -2,10 +2,10 @@
 
 const Card2 = () => {
     return (
-        <div className="w-fit">
-            <div className="w-[400px] relative group bg-gray-200 h-[400px] shadow-lg rounded-2xl overflow-hidden">
-                <img className="w-full h-full group-hover:h-64 object-cover rounded-2xl transition-all delay-150 duration-300 ease" src="https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f014625e-1a1d-4944-8395-46a07841a794/JORDAN+SPIZIKE+LOW.png" />
-                <div className="bg-gray-100 w-full h-40 absolute left-0 bottom-0 -mb-44 group-hover:mb-0 rounded-b-2xl transition-all delay-150 duration-300 ease dark:bg-gray-700">
+        <div className="">
+            <div className="w-[400px] relative group bg-gray-200  shadow-lg rounded-2xl overflow-hidden">
+                <img className="w-full  object-cover rounded-2xl transition-all delay-150 duration-300 ease" src="https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f014625e-1a1d-4944-8395-46a07841a794/JORDAN+SPIZIKE+LOW.png" />
+                <div className="bg-gray-100 w-full  absolute left-0 bottom-0 -mb-44 group-hover:mb-0 rounded-b-2xl transition-all delay-150 duration-300 ease dark:bg-gray-700">
                     <div className="p-6">
                         <div className="capitalize flex items-center justify-between gap-4">
                             <div>
