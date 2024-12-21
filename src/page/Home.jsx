@@ -8,6 +8,11 @@ import BlogCard5 from "../components/Blog/BlogCard5";
 import BlogCard6 from "../components/Blog/BlogCard6";
 import Card1 from "../components/Blog/Card1";
 import Card10 from "../components/Blog/Card10";
+import Card11 from "../components/Blog/Card11";
+import Card12 from "../components/Blog/Card12";
+import Card13 from "../components/Blog/Card13";
+import Card14 from "../components/Blog/Card14";
+import Card15 from "../components/Blog/Card15";
 import Card2 from "../components/Blog/Card2";
 import Card3 from "../components/Blog/Card3";
 import Card4 from "../components/Blog/Card4";
@@ -27,6 +32,8 @@ import Filter1 from "../components/Filter/Filter1";
 import Footer1 from "../components/Footer/Footer1";
 import Footer2 from "../components/Footer/Footer2";
 import Hero03 from "../components/Hero/Hero03";
+
+import Hero05 from "../components/Hero/Hero05";
 import Hero1 from "../components/Hero/Hero1";
 import Hero2 from "../components/Hero/Hero2";
 import Modal1 from "../components/modal/Modal1";
@@ -44,6 +51,7 @@ import Blogs03 from "./Blogs/Blogs03";
 const Home = () => {
     return (
         <div>
+          
             <Hero03/>
             <Navbar04/>
             <Hero1 />
@@ -53,8 +61,32 @@ const Home = () => {
             <Blogs01/>
             <Blogs02/>
             <Blogs03/>
+            
+           
             <div>
                 <div className="flex flex-wrap gap-6 p-9">
+                    <div>
+                        <h2>card-11</h2>
+                        <Card11/>
+
+                    </div>
+                    <div>
+                        <h2>card 12</h2>
+                        <Card12/>
+                    </div>
+                    <div>
+                        <h2>card 13</h2>
+                        <Card13/>
+                    </div>
+                    <div>
+                        <h2>card 14</h2>
+                        <Card14/>
+                    </div>
+                    <div>
+                        <h2>card 15</h2>
+                        <Card15/>
+                    </div>
+                    
                     <Card10/>
                     <Card9/>
                     <Card8/>
@@ -90,7 +122,10 @@ const Home = () => {
                 <Filter1 />
             </div>
             <Section1/>
+
+           
             <Table1/>
+            <Hero05/>
             <Footer1/>
             <Footer2/>
         </div>

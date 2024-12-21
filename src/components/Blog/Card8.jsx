@@ -1,8 +1,8 @@
 
 
 const Card8 = () => {
-    return (
-        <article className="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl">
+  return (
+    <article className="rounded-xl bg-white p-3 shadow-lg hover:shadow-xl">
       <a href="#">
         <div className="relative flex items-end overflow-hidden rounded-xl">
           <img src="https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500" alt="Hotel Photo" />
@@ -33,7 +33,7 @@ const Card8 = () => {
         </div>
       </a>
     </article>
-    );
+  );
 };
 
 export default Card8;
